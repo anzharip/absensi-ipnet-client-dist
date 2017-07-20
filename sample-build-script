@@ -1,0 +1,2 @@
+electron-packager ../absensi-ipnet-client-electron/HybridKehadiranFrontend/ --platform=win32,darwin --arch=x64 --overwrite
+electron-packager ../absensi-ipnet-client-electron/HybridAdminKehadiran/ --platform=win32,darwin --arch=x64 --overwrite
